@@ -15,10 +15,7 @@ let backColor = UIColor.blue
 
 class ViewController: UIViewController {
     
-    var backgroundImageView = UIImageView()
-    
     override func viewDidLoad() {
-        super.viewDidLoad()
         self.view.backgroundColor = backColor
         
     }
